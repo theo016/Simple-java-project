@@ -1,0 +1,33 @@
+Code:
+001
+Name:
+Angela(Raccoon)
+Homotaxy:
+Mammal
+Weight:
+6 kg
+Length:
+70 cm
+Life Expectancy:
+5-20 years
+Origin:
+North America
+
+Code:
+002
+Name:
+Tim(Seal)
+Homotaxy
+Mammal
+Weight:
+60 kg
+Length:
+1,6 m
+Life Expectancy:
+30 years
+Origin:
+Canada
+
+
+
+
